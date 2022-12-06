@@ -1,7 +1,4 @@
-# XMGRACE_FIX
-FIX FOR XM GRACE SMALL WINDOWS AND MENU
-
-
+# You can find bug fixes for several physics softwares
 <p align="left">
 <a href="#"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-PAKISTAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -10,16 +7,16 @@ FIX FOR XM GRACE SMALL WINDOWS AND MENU
 </p>
 <p align="center">
 <a href="https://github.com/nasirxo/followers"><img title="Followers" src="https://img.shields.io/github/followers/nasirxo?color=blue&style=flat-square"></a>
-<a href="https://github.com/nasirxo/flb2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nasirxo/XMGRACE_FIX?color=red&style=flat-square"></a>
-<a href="https://github.com/nasirxo/flb2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nasirxo/XMGRACE_FIX?color=red&style=flat-square"></a>
-<a href="https://github.com/nasirxo/nasirxo/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nasirxo/XMGRACE_FIX?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/nasirxo/flb2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nasirxo/PHY_SOFT_FIX?color=red&style=flat-square"></a>
+<a href="https://github.com/nasirxo/flb2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nasirxo/PHY_SOFT_FIX?color=red&style=flat-square"></a>
+<a href="https://github.com/nasirxo/nasirxo/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nasirxo/PHY_SOFT_FIX?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 
-## HOW TO RUN ?
+## FIX FOR XMGRACE & XCRYSDEN SMALL WINDOWS AND MENU/FONT
 ```
 cd $HOME
-wget https://raw.githubusercontent.com/nasirxo/XMGRACE_FIX/main/fix
-chmod +x fix
-./fix
-```
+wget https://raw.githubusercontent.com/nasirxo/PHY_SOFT_FIX/main/XMGRACE_CRYSDEN_FIX
+chmod +x XMGRACE_CRYSDEN_FIX
+./XMGRACE_CRYSDEN_FIX
+``` 

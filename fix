@@ -1,2 +1,3 @@
-echo "XMgrace*fontList: -adobe-helvetica-*-r-*-*-20-*-100-100-p-100-*-*" > .Xresources
-xrdb .Xresources
+echo "XMgrace*fontList: -adobe-helvetica-*-r-*-*-20-*-100-100-p-100-*-*" >> .Xresources
+echo "*Menubutton.font:	-adobe-helvetica-*-r-*-*-20-*-100-100-p-100-*-*" >> .Xresources
+xrdb -load .Xresources

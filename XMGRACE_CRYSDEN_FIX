@@ -1,4 +1,6 @@
+echo "Fixing XMGRACE AND XCRYSDEN FONT AND SMALL WINDOW PROBLEM ........"
 echo "XMgrace*fontList: -adobe-helvetica-*-r-*-*-20-*-100-100-p-100-*-*" >> .Xresources
 echo "*Menubutton.font:	-adobe-helvetica-*-r-*-*-20-*-100-100-p-100-*-*" >> .Xresources
 xrdb -load .Xresources
-
+echo "Fix Applied Sucessfully!"
+echo "YOU CAN NOW RUN XMGRACE AND XCRYSDEN"

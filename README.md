@@ -15,7 +15,6 @@
 
 ## FIX FOR XMGRACE & XCRYSDEN SMALL WINDOWS AND MENU/FONT
 ```
-cd $HOME
 wget https://raw.githubusercontent.com/nasirxo/PHY_SOFT_FIX/main/XMGRACE_CRYSDEN_FIX
 chmod +x XMGRACE_CRYSDEN_FIX
 ./XMGRACE_CRYSDEN_FIX
